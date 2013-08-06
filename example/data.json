@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "name": "a",
+      "attr": [{"key": "href", "value": "http://google.com"}, {"key": "target", "value": "_blank"}]
+    },
+    {
+      "pi": 3.14,
+      "test_bool": true,
+      "bug": null,
+      "tuple": [1, 42, {"a": true, "b": false}, null, 0.4, ["nested", ["_arr", true]], "EOF"]
+    },
+    {
+      "done": true
+    },
+    ["un", "deux", "trois", "soleil"],
+    {"JsonIsAwesome": true}
+  ]
+}
